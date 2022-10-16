@@ -16,7 +16,7 @@ Una descripción del comportamiento esperado para el escenario de pruebas ejecut
 ___
 Descripción del comportamiento actual para el escenario de pruebas ejecutado.
 
-**Pasos a Reproducir **
+**Pasos a Reproducir**
 ___
 Secuencia de pasos que se requieren para poder reproducir el defecto. Si en la ejecución del escenario usted hizo uso de algún dato, debe detallar en los pasos, que dato uso y en donde lo uso.
 
