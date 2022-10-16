@@ -11,7 +11,7 @@ assignees: ''
 Una descripción del comportamiento esperado para el escenario de pruebas ejecutado
 
 
-**Comportamiento Esperado**
+**Comportamiento Actual**
 Descripción del comportamiento actual para el escenario de pruebas ejecutado.
 
 **Pasos a Reproducir *
